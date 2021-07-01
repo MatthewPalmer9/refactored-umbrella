@@ -11,6 +11,6 @@ Fixes #3
 Please delete options that are not relevant.
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
-- [x] New feature (non-breaking change which adds functionality)
+- [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality not to work as expected)
 - [ ] This change requires a documentation update
